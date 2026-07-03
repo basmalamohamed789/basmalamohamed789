@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Basmala Mohamed
+Basmala Mohamed
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&color=00C8FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Websites;Always+Learning+New+Technologies;Welcome+To+My+GitHub!" />
 
