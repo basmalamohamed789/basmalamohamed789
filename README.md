@@ -25,4 +25,5 @@ const basmalaDetails = {
   programmingLanguages: ["Python", "JavaScript", "C++"],
   webTechnologies: ["HTML5", "CSS3"],
   tools: ["Git", "VS Code"]
-}
+};
+
